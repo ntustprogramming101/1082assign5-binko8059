@@ -598,7 +598,7 @@ color getTimeTextColor(int frames){				// Requirement #5
 }
 
 int getEnemyIndexByRow(int row){				// Requirement #6
-println(row);
+
 		// HINT:
 		// - If there's a soldier in that row, return that soldier's index in soldierX/soldierY
 		// (for example, if soldierY[3] is in that row, return 3)
